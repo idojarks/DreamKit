@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "DreamKit (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "DreamKit (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
